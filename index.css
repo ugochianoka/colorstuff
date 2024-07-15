@@ -1,12 +1,12 @@
 #three {
-    width: 50vh;
+    width: 50%;
     height: 50vh;
     background-color: red;
     align-items: center;
 }
 
 #two {
-    width: 50vh;
+    width: 50%;
     height: 50vh;
     background-color: yellow;
 }
@@ -16,13 +16,13 @@
 }
 
 #six {
-    width: 50vh;
+    width: 50%;
     height: 50vh;
     background-color: blue;
 }
 
 #five {
-    width: 50vh;
+    width: 50%;
     height: 50vh;
     background-color: black;
 }
