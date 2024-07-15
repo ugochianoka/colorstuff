@@ -1,0 +1,40 @@
+#three {
+    width: 50vh;
+    height: 50vh;
+    background-color: red;
+    align-items: center;
+}
+
+#two {
+    width: 50vh;
+    height: 50vh;
+    background-color: yellow;
+}
+
+#one {
+   display: flex;
+}
+
+#six {
+    width: 50vh;
+    height: 50vh;
+    background-color: blue;
+}
+
+#five {
+    width: 50vh;
+    height: 50vh;
+    background-color: black;
+}
+
+#four {
+   display: flex;
+}
+
+body {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+   color: white;
+   font-weight: 600;
+}
